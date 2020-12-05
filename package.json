@@ -1,0 +1,21 @@
+{
+  "name": "minikaho-eris",
+  "version": "1.0.0",
+  "description": "Simple bot with Eris",
+  "main": "index.js",
+  "dependencies": {
+    "eris": "^0.14.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Eris"
+  ],
+  "author": "Carl#5404",
+  "license": "ISC"
+}
